@@ -1,0 +1,17 @@
+Library/
+.vscode/
+Temp/
+Logs/
+UserSettings/
+Obj/
+Build/
+Builds/
+MemoryCaptures/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.apk
+*.aab
